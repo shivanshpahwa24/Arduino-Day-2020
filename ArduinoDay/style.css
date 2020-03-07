@@ -117,3 +117,13 @@ footer {
 .icons {
   background-color: #5a6f7b;
 }
+video {
+  width: 711px;
+  height: 400px;
+}
+@media (max-width: 576px) {
+  video {
+    width: 355px;
+    height: 200px;
+  }
+}
